@@ -15,15 +15,10 @@ Bank Al-Maghrib: Developed a mobile application for scanning vehicle plates and 
 SNRT: Built a drag-and-drop web application for scheduling TV shows.
 La Voie Express: Supported logistics management as a trainee, gaining hands-on experience with SQL for data handling.
 
-🚀 Projects
-Car Plate Recognition Mobile App: Mobile app to scan car plates with web support for user and authorization management.
-FaceID Web App: A web authentication system using facial recognition for secure and efficient login.
-TV Show Scheduling Platform: An interactive drag-and-drop interface for TV show organization at SNRT.
-
-🌍 Extra-curricular & Community
+🌍 Extra-curricular & Community:
 Club UIRANDONNEE: As the founder and president, I established this club at my university to promote outdoor activities and foster community spirit among students.
 Hult Prize Morocco: Participated in the prestigious competition with an innovative project to create a 24/7 accessible network of automated kiosks for essential medical and para-pharmacy items.
 
-📫 Connect with Me
+📫 Connect with Me:
 LinkedIn: linkedin.com/in/issam-sbabou-2b95352aa
 Email: issam.pro.boitemail@gmail.com
