@@ -20,5 +20,5 @@ Club UIRANDONNEE: As the founder and president, I established this club at my un
 Hult Prize Morocco: Participated in the prestigious competition with an innovative project to create a 24/7 accessible network of automated kiosks for essential medical and para-pharmacy items.
 
 📫 Connect with Me:
-LinkedIn: linkedin.com/in/issam-sbabou-2b95352aa
+LinkedIn: https://www.linkedin.com/in/issamsbabou/
 Email: issam.pro.boitemail@gmail.com
