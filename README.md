@@ -1,7 +1,7 @@
 👋 Bonjour, je suis Issam Sbabou ! Bienvenue sur mon GitHub ! Je suis un ingénieur logiciel passionné par la création de solutions innovantes dans les domaines du développement web, mobile et desktop. Actuellement étudiant en ingénierie à l'Université Internationale de Rabat, je m'engage à développer des solutions technologiques efficaces et impactantes qui font la différence.
 
 💻 À propos de moi :  
-🌐 **Développement Web** : Compétences en React.js, Angular, HTML/CSS, JavaScript et Spring Boot  
+🌐 **Développement Web** : Compétences en Angular, HTML/CSS, JavaScript et Spring Boot  
 📱 **Développement Mobile** : Expertise en Flutter et React Native  
 🖥️ **Développement Desktop** : Expérience en Java Swing  
 🗄️ **Base de Données** : Connaissances en MySQL et PostgreSQL  
